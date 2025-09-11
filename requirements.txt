@@ -1,0 +1,7 @@
+roboflow==1.1.27
+ultralytics==8.0.196
+python-dotenv==1.0.1
+numpy==1.26.4
+pandas==2.2.2
+opencv-python==4.9.0.80
+ipython==8.25.0
