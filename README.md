@@ -1,4 +1,4 @@
-My first Machine Learning project built with my friend Vaibhav during college, where we developed a Deep Learning-based Road Sign Detection system. [Vaibhav](https://github.com/vaibhav410)
+My first Machine Learning project built with my friend [Vaibhav](https://github.com/vaibhav410) for college project, where we developed a Deep Learning-based Road Sign Detection system. 
 
 
 🚦 **Road Sign Detection using Deep Learning**
@@ -169,7 +169,7 @@ Correctly classifies speed limits, stop signs, and other common traffic symbols.
 
 Visualization of detected signs included in the notebook.
 
-👩‍💻 Contributors
+👩‍💻 **Contributors**
 
 #[Aditya](https://github.com/AdityaKr015)
 
