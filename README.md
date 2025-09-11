@@ -116,15 +116,15 @@ o	mAP (mean Average Precision): Overall detection performance.
 
 📂 **Project Structure**
 
-├── object_detection3.ipynb   # Main Jupyter Notebook
+├── object_detection3.ipynb            # Main Jupyter Notebook
 
-├── dataset/                  # Training & testing images
+├── dataset/                           # Training & testing images
 
-├── models/                   # Saved models (if any)
+├── models/                            # Saved models (if any)
 
-├── requirements.txt          # Dependencies
+├── requirements.txt                   # Dependencies
 
-└── README.md                 # Project documentation
+└── README.md                          # Project documentation
 
 
 
