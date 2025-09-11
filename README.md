@@ -1,4 +1,4 @@
-Hello this is my first Machine Learning project,Built this for college project with my friend [Vaibhav](https://github.com/vaibhav410)
+My first Machine Learning project built with my friend Vaibhav during college, where we developed a Deep Learning-based Road Sign Detection system. [Vaibhav](https://github.com/vaibhav410)
 
 
 🚦 **Road Sign Detection using Deep Learning**
