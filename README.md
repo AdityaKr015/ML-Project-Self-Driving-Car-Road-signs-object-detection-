@@ -1,6 +1,7 @@
 Hello this is my first Machine Learning project,Built this for college project with my friend [Vaibhav](https://github.com/vaibhav410)
 
 🚦 **Road Sign Detection using Deep Learning**
+
 📌 **Project Overview**
 
 This project focuses on detecting and classifying road signs from images using deep learning.
@@ -59,15 +60,29 @@ o	mAP (mean Average Precision): Overall detection performance.
 •	Results showed that the model successfully detected multiple objects simultaneously and delivered accurate predictions.
 •	The outputs demonstrated the system’s ability to be applied in real-world scenarios such as surveillance, product detection, and automation tasks.
 
+<img width="975" height="731" alt="image" src="https://github.com/user-attachments/assets/c165f5eb-ad0f-4ba9-94b5-1211483cdb71" />
+
+<img width="975" height="488" alt="image" src="https://github.com/user-attachments/assets/1d7616d6-2551-431f-9a48-12bbfc4c5758" />
+
+
+
+**WORKFLOW FOR THIS PROJECT:**
+
+<img width="917" height="617" alt="image" src="https://github.com/user-attachments/assets/7d0114f3-94a6-484c-b8c3-b0a615ab96a7" />
 
 
 📂 **Project Structure**
 
 ├── object_detection3.ipynb   # Main Jupyter Notebook
+
 ├── dataset/                  # Training & testing images
+
 ├── models/                   # Saved models (if any)
+
 ├── requirements.txt          # Dependencies
+
 └── README.md                 # Project documentation
+
 
 ⚙️ **Tech Stack**
 
@@ -105,9 +120,19 @@ jupyter notebook object_detection3.ipynb
 
 📈 Results
 
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/169c3b14-2148-49bc-8ae6-f48fa0d31129" />
+
+<img width="975" height="550" alt="image" src="https://github.com/user-attachments/assets/ff57cc6f-a543-4dbf-a5e7-1b172bc5d7c3" />
+
+<img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/9e7a03e8-69b4-4762-b97a-a3ba4ac9ff01" />
+
+
+
+
 Model accuracy: Overall 85 to 90 % accuracy 
 
 Correctly classifies speed limits, stop signs, and other common traffic symbols.
+
 
 Visualization of detected signs included in the notebook.
 
