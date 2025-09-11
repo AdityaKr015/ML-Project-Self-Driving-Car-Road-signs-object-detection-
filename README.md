@@ -30,46 +30,67 @@ The implementation of the Object Detection project was carried out in a systemat
 1. **Dataset Integration**
 
 •	The dataset was created and managed using Roboflow, which allowed image uploading, annotation, and preprocessing.
+
 •	Each image was annotated with bounding boxes marking the location of objects.
+
 •	The final dataset was exported in YOLO-compatible format (with training, validation, and test splits).
+
 •	The dataset was then imported into the Colab environment for model training.
 
 
 2. **Environment Setup**
  
 •	In Google Colab, the required dependencies were installed, including:
+
 o	Ultralytics (for YOLOv8 framework)
+
 o	Pandas (for data handling and analysis)
+
 o	Roboflow API (for dataset access and integration)
+
 •	GPU runtime was enabled to accelerate training.
+
 •	Project directories were created for organizing datasets, model weights, and results.
 
 
 3. **Model Training**
  
 •	The YOLOv8 model from Ultralytics was selected due to its high speed and accuracy.
+
 •	Pre-trained YOLOv8 weights were used and fine-tuned on the custom dataset (transfer learning).
+
 •	Training parameters:
+
 o	Epochs: Defined number of iterations for learning.
+
 o	Batch size: Optimized for available GPU memory.
+
 o	Learning rate: Tuned for stable convergence.
 
 
 4. **Model Validation**
  
 •	After training, the model was validated on a separate test dataset.
+
 •	Key metrics were measured, including:
+
 o	Precision: How many predicted objects were correct.
+
 o	Recall: How many actual objects were detected.
+
 o	mAP (mean Average Precision): Overall detection performance.
+
 •	The validation process helped evaluate how well the model generalized to unseen images.
 
 
 5. **Inference and Output**
  
 •	The trained YOLOv8 model was used for inference on new test images.
+
 •	Each detected object was marked with a bounding box, label, and confidence score.
+
 •	Results showed that the model successfully detected multiple objects simultaneously and delivered accurate predictions.
+
 •	The outputs demonstrated the system’s ability to be applied in real-world scenarios such as surveillance, product detection, and automation tasks.
 
 
