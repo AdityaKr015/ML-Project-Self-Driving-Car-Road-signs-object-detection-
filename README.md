@@ -136,3 +136,10 @@ Correctly classifies speed limits, stop signs, and other common traffic symbols.
 
 Visualization of detected signs included in the notebook.
 
+👩‍💻 Contributors
+
+#[Aditya](https://github.com/AdityaKr015)
+
+#[Vaibhav](https://github.com/vaibhav410)
+ 
+
