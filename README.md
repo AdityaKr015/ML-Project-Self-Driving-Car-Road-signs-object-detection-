@@ -177,10 +177,6 @@ jupyter notebook object_detection3.ipynb
 
 
 
-<img width="975" height="550" alt="image" src="https://github.com/user-attachments/assets/ff57cc6f-a543-4dbf-a5e7-1b172bc5d7c3" />
-
-
-
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/9e7a03e8-69b4-4762-b97a-a3ba4ac9ff01" />
 
 
