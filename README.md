@@ -170,6 +170,9 @@ jupyter notebook object_detection3.ipynb
 📈 **Results**
 
 
+![Demo](video.gif)
+
+
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/169c3b14-2148-49bc-8ae6-f48fa0d31129" />
 
 
