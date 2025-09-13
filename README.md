@@ -186,7 +186,17 @@ jupyter notebook object_detection3.ipynb
 
 
 
-Model accuracy: Overall 85 to 90 % accuracy 
+Our model achieved:
+
+• Precision ~88%
+
+• Recall ~79%
+
+• mAP@50: ~90%
+
+• mAP@50–95: ~78%
+
+on our custom traffic sign dataset.
 
 Correctly classifies speed limits, stop signs, and other common traffic symbols.
 
