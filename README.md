@@ -95,11 +95,13 @@ o	mAP (mean Average Precision): Overall detection performance.
 
 
 
-<img width="975" height="731" alt="image" src="https://github.com/user-attachments/assets/c165f5eb-ad0f-4ba9-94b5-1211483cdb71" />
+<img width="3000" height="2250" alt="image" src="https://github.com/user-attachments/assets/31116679-ccba-4da8-8bae-bff694e03a2a" />
 
 
 
-<img width="975" height="488" alt="image" src="https://github.com/user-attachments/assets/1d7616d6-2551-431f-9a48-12bbfc4c5758" />
+
+<img width="2400" height="1200" alt="image" src="https://github.com/user-attachments/assets/97d9f950-4076-485c-8149-0a9c312ec647" />
+
 
 
 
@@ -170,7 +172,7 @@ jupyter notebook object_detection3.ipynb
 📈 **Results**
 
 
-![Demo](video.gif)
+![Demo](output.gif)
 
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/169c3b14-2148-49bc-8ae6-f48fa0d31129" />
@@ -184,13 +186,13 @@ jupyter notebook object_detection3.ipynb
 
 Our model achieved:
 
-• Precision ~88%
+Precision: ~ 93.6%
 
-• Recall ~79%
+Recall: ~ 89.1%
 
-• mAP@50: ~90%
+mAP@50: ~ 95.1%
 
-• mAP@50–95: ~78%
+mAP@50–95: ~ 81.5%
 
 on our custom traffic sign dataset.
 
